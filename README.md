@@ -1,5 +1,5 @@
-Plotly Homework - Belly Button Biodiversity
+#Plotly Homework - Belly Button Biodiversity
 
 An example dashboard page might look something like the following.
 
-![](image/Dashboard.PNG)
+<img src='image/Dashboard.PNG' width='100' hight='100'>
