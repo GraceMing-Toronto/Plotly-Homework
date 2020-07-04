@@ -2,4 +2,4 @@
 
 * An example dashboard page might look something like the following.
 
-![Example Dashboard Page](images/dashboard.png)
+![Example Dashboard Page](image/Dashboard.png)
